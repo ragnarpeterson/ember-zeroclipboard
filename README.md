@@ -4,8 +4,10 @@ ZeroClipboard functionality wrapped up in a simple Ember component.
 
 ## Installation
 
-* `npm install --save ember-zeroclipboard`
-* `ember g ember-zeroclipboard`
+```bash
+# From within your ember-cli project
+ember install:addon ember-zeroclipboard
+```
 
 ## Usage
 
