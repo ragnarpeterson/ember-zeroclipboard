@@ -1,6 +1,6 @@
 # ember-zeroclipboard
 
-ZeroClipboard functionality wrapped up in a simple Ember component.
+ZeroClipboard functionality wrapped up in a simple Ember component. Requires Ember v1.12 or greater.
 
 ## Installation
 
