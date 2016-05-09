@@ -13,6 +13,6 @@ export default {
 
   initialize: function(application) {
     var config = lookupFactory(application, 'config:environment')['ember-zeroclipboard'];
-    //if (config) { ZeroClipboard.config(config); }
+    if (config) { ZeroClipboard.config(config); }
   }
 };
